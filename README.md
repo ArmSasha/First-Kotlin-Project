@@ -19,7 +19,7 @@
     <img src='images/image-3.png' style='margin-left:50px;height:550px;weight:600px'>
 </div>
 
-<span style = "font-size: 18px">Also when pressing the post, it is open directly in the application without moving into a non -entry browser:point_down:</span>
+<span style = "font-size: 18px">Also when pressing the post, it is open directly in the application without moving into a non -entry browser :point_down: </span>
 
 
 
